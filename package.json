@@ -1,0 +1,19 @@
+{
+  "name": "digitaloceanproject",
+  "version": "1.0.0",
+  "description": "React Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kebowen730/DigitalOceanProject.git"
+  },
+  "author": "Kenneth Bowen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kebowen730/DigitalOceanProject/issues"
+  },
+  "homepage": "https://github.com/kebowen730/DigitalOceanProject#readme"
+}
